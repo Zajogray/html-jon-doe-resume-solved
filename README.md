@@ -76,6 +76,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] Set the page heading to be "Jon Doe"
 - [x] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
 - [ ] Add an image with required and important attributes
+<<<<<<< HEAD
   - [x] The image path should be `https://randomuser.me/api/portraits/men/20.jpg`. Feel free to change the number in the file name to get a new image.
   - [x] The image alternative text should match the page title.
 - [x] Add a section heading with the content of "About Me".
@@ -91,6 +92,23 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
 - [x] Add Github as a service and use your real github username as a value. Make the value to be a link that leads to your github profile in a new browser tab.
 - [x] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p1-solved-mockup.png).
+=======
+  - [ ] The image path should be `./assets/avatars/fake_person.jpg`. This image is included into the project already.
+  - [ ] The image alternative text should match the page title.
+- [ ] Add a section heading with the content of "About Me".
+- [ ] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
+- [ ] Add the section heading "My Skills"
+- [ ] Add the ORDERED list and add 6 random item into it. (Feel free to use the devslopes website to get the real skill names or use some random skill names)
+- [ ] Add the section heading "My Hobbies"
+- [ ] Add the UNORDERED list of 4 hobbies
+- [ ] Add the section heading "Contact Me"
+- [ ] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
+- [ ] Add Discord as a service and your discord's real username as a value to the table.
+- [ ] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
+- [ ] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
+- [ ] Add Github as a service and use your real github username as a value. Make the value to be a link that leads to your github profile in a new browser tab.
+- [ ] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p1-solved-mockup.png).
+>>>>>>> 28587a70ac4708d1c6a10bdd430a77aa69f44f39
 
 ### Part 2: Testing the magic of id and class attributes
 
